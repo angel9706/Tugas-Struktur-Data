@@ -1,12 +1,5 @@
 Tanggal,Tipe,Kategori,Nominal,Keterangan
-2025-06-25,Pemasukan,gaji,21000000,bulanan
-2025-07-25,Pengeluaran,belanja,2500000,-
-2025-06-25,Pemasukan,gaji,21000000,bulanan
-2025-07-25,Pengeluaran,belanja,2500000,-
-2025-06-07,Pengeluaran,harian,50000,makan
-2025-06-25,Pemasukan,gaji,21000000,bulanan
-2025-07-25,Pengeluaran,belanja,2500000,-
-2025-06-25,Pemasukan,gaji,21000000,bulanan
-2025-07-25,Pengeluaran,belanja,2500000,-
-2025-06-07,Pengeluaran,harian,50000,makan
-08-07-2025,Pengeluaran,makan,60000,harian
+2025-06-01,Pemasukan,gaji,21000000,bulanan
+2025-06-05,Pengeluaran,skincare,500000,bulanan
+2025-06-10,Pengeluaran,makeup,1000000,bulanan
+2025-06-10,Pengeluaran,makan,150000,harian
